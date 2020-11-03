@@ -2,3 +2,8 @@
 	path = momentum-bootstrap
 	url = https://github.com/TylerAPfledderer/momentum-bootstrap
 	branch = master
+
+[submodule "firebasejs-bootstrap"]
+	path = firebasejs-bootstrap
+	url = https://github.com/TylerAPfledderer/firebasejs-bootstrap
+	branch = master
