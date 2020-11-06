@@ -6,4 +6,9 @@
 [submodule "firebasejs-bootstrap"]
 	path = firebasejs-bootstrap
 	url = https://github.com/TylerAPfledderer/firebasejs-bootstrap
-	branch = master
+	branch = main
+
+[submodule "paws-bootstrap"]
+	path = paws-bootstrap
+	url = https://github.com/TylerAPfledderer/paws-bootstrap
+	branch = main
