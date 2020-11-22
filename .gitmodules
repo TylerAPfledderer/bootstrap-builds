@@ -12,3 +12,8 @@
 	path = paws-bootstrap
 	url = https://github.com/TylerAPfledderer/paws-bootstrap
 	branch = main
+
+[submodule "social-app-bootstrap"]
+	path = social-app-bootstrap
+	url = https://github.com/TylerAPfledderer/social-app-bootstrap
+	branch = main
